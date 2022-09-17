@@ -24,3 +24,8 @@
 - [Markdown статья](https://blog.skillfactory.ru/glossary/markdown/)
 - [Видеоурок по Markdown](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [Markdown в Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
+## *Иллюстрация:*
+![MyGif](https://media4.giphy.com/media/W79wfYWCTWidO/giphy.gif)
+
