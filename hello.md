@@ -38,3 +38,14 @@ capitalize("shop") # [Shop]
 capitalize("python programming") # [Python Programming]
 capitalize("how are you!") # [How Are You!]
 ````
+---
+## *Таблица:*
+
+*Tables*       | *Are*           | *Cool*  
+:-------------:|:-------------:| :-----:
+col 3 is      | right-aligned | $1600 
+col 2 is      | centered      |   $12 
+zebra stripes | are neat      |    $1 
+
+---
+## *Cпасибо за внимание!*
