@@ -14,3 +14,8 @@
 6. **git checkout** – переход от одного коммита к другому
 7. **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 8. **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+
+---
+## *Картинка:*
+[![video](https://trofimovdigital.ru/wp-content/uploads/markdown-guide/markdown-guide.jpg)](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
+
