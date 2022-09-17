@@ -20,7 +20,7 @@
 [![video](https://trofimovdigital.ru/wp-content/uploads/markdown-guide/markdown-guide.jpg)](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
 
 ---
-## Полезные ссылки:
+## *Полезные ссылки:*
 - [Markdown статья](https://blog.skillfactory.ru/glossary/markdown/)
 - [Видеоурок по Markdown](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [Markdown в Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
