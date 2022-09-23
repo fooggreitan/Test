@@ -22,22 +22,20 @@
 ---
 ## *Полезные ссылки:*
 - [Markdown для ленивых](https://blog.skillfactory.ru/glossary/markdown/)
+- [Git - команды](https://habr.com/ru/company/ruvds/blog/599929/?ysclid=l8737b3pbk655593671)
 - [Видеоурок по Markdown](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [Markdown в Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 ## *Иллюстрация:*
-![MyGif](https://media4.giphy.com/media/W79wfYWCTWidO/giphy.gif)
+![MyGif](https://bipbap.ru/wp-content/uploads/2021/07/2edebf697cffa6983503f85bb76b3e9f.gif)
 
 ---
 ## *Код:*
-```python
-def capitalize(String):
-    return String.title()
-capitalize("shop") # [Shop]
-capitalize("python programming") # [Python Programming]
-capitalize("how are you!") # [How Are You!]
-````
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 ---
 ## *Таблица:*
 
