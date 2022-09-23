@@ -38,10 +38,12 @@
 ---
 ## *Иллюстрация:*
 ![MyGif](https://media4.giphy.com/media/W79wfYWCTWidO/giphy.gif)
+![NewGIF](https://bipbap.ru/wp-content/uploads/2021/07/2edebf697cffa6983503f85bb76b3e9f.gif)
 
 
 ---
 ## *Код:*
+
 ```python
 def capitalize(String):
     return String.title()
@@ -49,6 +51,11 @@ capitalize("shop") # [Shop]
 capitalize("python programming") # [Python Programming]
 capitalize("how are you!") # [How Are You!]
 ````
+
+```javascript
+var s = "New Code";
+alert(s);
+```
 ---
 ## *Таблица:*
 
