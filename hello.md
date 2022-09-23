@@ -28,13 +28,13 @@
 
 ---
 ## *Иллюстрация:*
-![MyGif](https://bipbap.ru/wp-content/uploads/2021/07/2edebf697cffa6983503f85bb76b3e9f.gif)
+![NewGIF](https://bipbap.ru/wp-content/uploads/2021/07/2edebf697cffa6983503f85bb76b3e9f.gif)
 
 
 ---
 ## *Код:*
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = "New Code";
 alert(s);
 ```
 ---
