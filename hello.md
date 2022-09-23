@@ -31,12 +31,14 @@
 ---
 ## *Полезные ссылки:*
 - [Markdown для ленивых](https://blog.skillfactory.ru/glossary/markdown/)
+- [Git - команды](https://habr.com/ru/company/ruvds/blog/599929/?ysclid=l8737b3pbk655593671)
 - [Видеоурок по Markdown](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [Markdown в Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 ## *Иллюстрация:*
 ![MyGif](https://media4.giphy.com/media/W79wfYWCTWidO/giphy.gif)
+
 
 ---
 ## *Код:*
